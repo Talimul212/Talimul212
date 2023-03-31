@@ -12,3 +12,4 @@ Skills: REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talimul212)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Talimul212)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Talimul212&show_icons=true)  
