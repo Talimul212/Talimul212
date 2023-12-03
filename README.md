@@ -19,8 +19,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <h3 align="left">Top languages:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talimul212&show_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-  
-..
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Talimul212&theme=radical) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talimul212&show_icons=true&theme=radical)
 
 
