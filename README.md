@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Talimul Islam (talim)
+### Hi there 👋, my name is Talimul Islam
 #### I'm a self-taught passionate FrontEnd developer from Bangladesh
 ![I am GitHub Readme Generator's creator](https://i.ibb.co/J7yDPds/TALIMUL-ISLAM.png)
 
