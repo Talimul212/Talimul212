@@ -1,8 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner / Title -->
-  <h1>Hi there, I'm <a href="https://github.com/Talimul212">Talimul Islam</a> 👋</h1>
-  <p><strong>Self-taught & Passionate Front-End Developer from Bangladesh 🇧🇩</strong></p>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=TALIMUL%20ISLAM&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20NEXT.JS%20%26%20REACT&descAlignY=62&descScale=18" width="100%" alt="Header Banner" />
 
   <!-- Typing Animation -->
   <a href="https://readme-typing-svg.demolab.com">
@@ -12,7 +11,7 @@
   <br />
   <br />
 
-  <!-- Social Media & Profile Links -->
+  <!-- Social Media & Badge Links -->
   <a href="https://github.com/Talimul212">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
