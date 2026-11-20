@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Talimul+Islam+%F0%9F%91%8B;Full-Stack+Web+Developer;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;I+build+products+businesses+run+on." alt="Hi, I'm Talimul Islam" />
 
 **Full-stack web developer from Bangladesh 🇧🇩** · I turn business problems into fast, clean web products,<br/>
